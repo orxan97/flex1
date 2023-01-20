@@ -1,0 +1,176 @@
+.body {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+.box1 {
+  border: 2px solid rgb(116, 109, 109);
+  background-color: rgb(116, 109, 109);
+  width: 350px;
+  height: 500px;
+  margin: 40px;
+}
+.first1 {
+  border: 2px solid rgb(116, 109, 109);
+  background-color: rgb(37, 34, 34);
+  height: 150px;
+  width: 340px;
+  position: relative;
+  left: 3px;
+  top: 3px;
+}
+.first2 {
+  border: 2px solid rgb(116, 109, 109);
+  background-color: rgb(37, 34, 34);
+  height: 332px;
+  width: 340px;
+  position: relative;
+  left: 3px;
+  top: 6px;
+}
+.click1 {
+  border: 2px solid rgb(81, 74, 74);
+  height: 40px;
+  width: 150px;
+  background-color: rgb(210, 70, 117);
+  border-radius: 10px;
+  position: absolute;
+  bottom: 40px;
+  left: 28%;
+}
+.lorem {
+  text-align: center;
+  margin-top: 65px;
+  color: white;
+}
+.text {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+}
+.img {
+  border: 2px solid rgb(37, 34, 34);
+  height: 70px;
+  width: 70px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gl%C3%BChwendel_brennt_durch.jpg/300px-Gl%C3%BChwendel_brennt_durch.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top: 45px;
+  margin-left: 40%;
+}
+
+.box2 {
+  border: 2px solid rgb(116, 109, 109);
+  background-color: rgb(116, 109, 109);
+  width: 350px;
+  height: 500px;
+  margin: 40px;
+}
+
+.smallbox1 {
+  border: 2px solid rgb(116, 109, 109);
+  background-color: rgb(37, 34, 34);
+  height: 150px;
+  width: 340px;
+  position: relative;
+  left: 3px;
+  top: 3px;
+}
+.smallbox2 {
+  border: 2px solid rgb(116, 109, 109);
+  background-color: rgb(37, 34, 34);
+  height: 332px;
+  width: 340px;
+  position: relative;
+  left: 3px;
+  top: 6px;
+}
+.click2 {
+  border: 2px solid rgb(81, 74, 74);
+  height: 40px;
+  width: 150px;
+  background-color: rgb(183, 112, 216);
+  border-radius: 10px;
+  position: absolute;
+  bottom: 40px;
+  left: 28%;
+}
+.text1 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+}
+.lorem1 {
+  text-align: center;
+  margin-top: 65px;
+  color: white;
+}
+.pen {
+  border: 2px solid rgb(37, 34, 34);
+  height: 70px;
+  width: 70px;
+  background-image: url(https://cdn.shopify.com/s/files/1/0114/8141/5761/products/IncognitoRbackground.jpg?v=1608688175);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top: 45px;
+  margin-left: 40%;
+}
+
+.box3 {
+  border: 2px solid rgb(116, 109, 109);
+  background-color: rgb(116, 109, 109);
+  width: 350px;
+  height: 500px;
+  margin: 40px;
+}
+.smallbox3 {
+  border: 2px solid rgb(116, 109, 109);
+  background-color: rgb(37, 34, 34);
+  height: 150px;
+  width: 340px;
+  position: relative;
+  left: 3px;
+  top: 3px;
+}
+.smallbox4 {
+  border: 2px solid rgb(116, 109, 109);
+  background-color: rgb(37, 34, 34);
+  height: 332px;
+  width: 340px;
+  position: relative;
+  left: 3px;
+  top: 6px;
+}
+.click3 {
+  border: 2px solid rgb(81, 74, 74);
+  height: 40px;
+  width: 150px;
+  background-color: palevioletred;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 40px;
+  left: 28%;
+}
+.text2 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+}
+.lorem2 {
+  text-align: center;
+  margin-top: 65px;
+  color: white;
+}
+.television {
+  border: 2px solid rgb(37, 34, 34);
+  height: 70px;
+  width: 70px;
+  background-image: url(https://wallpaper.dog/large/20509016.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top: 45px;
+  margin-left: 40%;
+}
